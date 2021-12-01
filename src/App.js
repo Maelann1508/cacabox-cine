@@ -1,12 +1,7 @@
-import "./App.css";
 import MainPage from "./screens/MainPage";
 
 function App() {
-  return (
-    <div className="App">
-      <MainPage />
-    </div>
-  );
+  return <MainPage />;
 }
 
 export default App;
